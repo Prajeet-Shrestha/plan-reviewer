@@ -1,6 +1,6 @@
 ---
 name: plan-reviewer
-description: Review and strengthen an implementation plan. Use this skill whenever the user says "review the plan", "check the plan", "review my plan", "find gaps in the plan", or asks you to audit, validate, or improve an existing implementation plan. This skill performs a structured review — gap analysis, edge case discovery, UI challenge identification, dry-run simulation, plan updates, and question generation — by cross-referencing the plan against the actual project codebase. Supports three review depths: quick, standard (default), and deep.
+description: "Review and strengthen an implementation plan. Use this skill whenever the user says 'review the plan', 'check the plan', 'review my plan', 'find gaps in the plan', or asks you to audit, validate, or improve an existing implementation plan. This skill performs a structured review: gap analysis, edge case discovery, UI challenge identification, dry-run simulation, plan updates, and question generation, by cross-referencing the plan against the actual project codebase. Supports three review depths: quick, standard (default), and deep."
 ---
 
 # Plan Reviewer
